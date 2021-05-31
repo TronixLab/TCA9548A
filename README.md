@@ -11,4 +11,4 @@ I2C Multiplexer sketch for Arduino and other supported boards. This is a simple 
 * [MPU5060 library](https://github.com/adafruit/Adafruit_MPU6050)
 
 ## Schematic diagram
-![Alt Text](url)
+![Alt Text](https://github.com/TronixLab/TCA9548A/blob/main/Untitled%20Sketch_bb.jpg)
