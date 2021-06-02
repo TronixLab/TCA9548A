@@ -12,3 +12,6 @@ I2C Multiplexer sketch for Arduino and other supported boards. This is a simple 
 
 ## Schematic diagram
 ![Alt Text](https://github.com/TronixLab/TCA9548A/blob/main/Untitled%20Sketch_bb.jpg)
+
+## Video Demo on YouTube
+[![Alt Text](https://github.com/TronixLab/TCA9548A/blob/main/Demo.jpg)](https://www.youtube.com/watch?v=6oo5_2NDi-w)
